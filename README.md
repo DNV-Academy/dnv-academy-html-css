@@ -19,6 +19,7 @@ Neste projeto, você irá:
 
 ```
 dnv-academy-html-css/
+|   logo.webp        # Imagem
 └── index.html       # Página principal
 ```
 
